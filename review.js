@@ -1,3 +1,9 @@
+// TODO 
+// - backend - load retrospective reviews from json file
+// - on UI - display the weeks available
+// - on UI - append each review below the question match by the week and question id
+// - backend - when the week number is click, toggle the reviews to the week selected  
+
 document.addEventListener('DOMContentLoaded', function() {
   loadGoals('goals.json');
   loadQuestions('questions-annual.json', 'annual');
@@ -22,6 +28,11 @@ function loadQuestions(jsonFile, containerId) {
       console.error(`Error fetching questions from ${jsonFile}:`, error);
     });
 }
+
+// function load reviews
+// fetch reviews json file 
+// create elements for answer to display below the question of same id
+// append to the container
 
 function createQuestionElements(questions, containerId) {
   const container = document.getElementById(containerId);
