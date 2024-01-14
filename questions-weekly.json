@@ -1,0 +1,27 @@
+[
+  {
+    "id": "wq1",
+    "question": "From 1-10, how do you feel overall about this past week?",
+    "answer": ""
+  },
+  {
+    "id": "wq2",
+    "question": "Review your last week. Celebrate your wins and reflect on your losses.",
+    "answer": ""
+  },
+  {
+    "id": "wq3",
+    "question": "Biggest wins. List 3-5 major accomplishments of the last week.",
+    "answer": ""
+  },
+  {
+    "id": "wq4",
+    "question": "Biggest mistakes. List 3-5 things that didn't let you make the most of the last week.",
+    "answer": ""
+  },
+  {
+    "id": "wq5",
+    "question": "How I'll improve. Elaborate on the steps you're going to take to make next week great.",
+    "answer": ""
+  }
+]

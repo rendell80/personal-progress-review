@@ -1,0 +1,92 @@
+[
+  {
+    "id": "g1",
+    "text": "Run",
+    "goal": 1200,
+    "current": [25]
+  },
+  {
+    "id": "g2",
+    "text": "Bike",
+    "goal": 600,
+    "current": [0]
+  },
+  {
+    "id": "g3",
+    "text": "Read",
+    "goal": 26,
+    "current": [3]
+  },
+  {
+    "id": "g4",
+    "text": "Duolingo",
+    "goal": 365,
+    "current": [14]
+  },
+  {
+    "id": "g5",
+    "text": "Topup CPF",
+    "goal": 16,
+    "current": [1]
+  },
+  {
+    "id": "g6",
+    "text": "Refund HDB to CPF",
+    "goal": 10,
+    "current": [0]
+  },
+  {
+    "id": "g7",
+    "text": "Invest",
+    "goal": 12,
+    "current": [1]
+  },
+  {
+    "id": "g8",
+    "text": "Topup SRS",
+    "goal": 15,
+    "current": [0]
+  },
+  {
+    "id": "g9",
+    "text": "Property Fund",
+    "goal": 50,
+    "current": [0]
+  },
+  {
+    "id": "g10",
+    "text": "Record Expenses",
+    "goal": 365,
+    "current": [13]
+  },
+  {
+    "id": "g11",
+    "text": "Monthly Balance Sheet",
+    "goal": 12,
+    "current": [0]
+  },
+  {
+    "id": "g12",
+    "text": "Do Assessment [Son]",
+    "goal": 500,
+    "current": [37]
+  },
+  {
+    "id": "g13",
+    "text": "Visit new place [Son]",
+    "goal": 12,
+    "current": [0]
+  },
+  {
+    "id": "g14",
+    "text": "Dates [Wife]",
+    "goal": 2,
+    "current": [0]
+  },
+  {
+    "id": "g15",
+    "text": "Build Portfolio",
+    "goal": 1,
+    "current": [0]
+  }
+]
