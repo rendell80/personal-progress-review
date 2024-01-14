@@ -11,6 +11,9 @@ This project is a personal progress review tool. It includes a web interface for
 - `questions-monthly.json`: A JSON file that contains the questions for the monthly review.
 - `questions-annual.json`: A JSON file that contains the questions for the annual review.
 
+## Upcoming Features
+- **Show Review**: Display the reviews below the questions
+
 ## How to Use
 
 1. Open `index.html` in your web browser.
