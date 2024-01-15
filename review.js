@@ -3,6 +3,7 @@
 // - on UI - display the weeks available
 // - on UI - append each review below the question match by the week and question id
 // - backend - when the week number is click, toggle the reviews to the week selected  
+// - add long term, milestone goals 
 
 document.addEventListener('DOMContentLoaded', function() {
   loadGoals('goals.json');
