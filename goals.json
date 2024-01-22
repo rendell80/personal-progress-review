@@ -3,7 +3,7 @@
     "id": "g1",
     "text": "Run",
     "goal": 1200,
-    "current": [25]
+    "current": [89]
   },
   {
     "id": "g2",
@@ -15,13 +15,13 @@
     "id": "g3",
     "text": "Read",
     "goal": 26,
-    "current": [3]
+    "current": [5]
   },
   {
     "id": "g4",
     "text": "Duolingo",
     "goal": 365,
-    "current": [14]
+    "current": [21]
   },
   {
     "id": "g5",
@@ -57,7 +57,7 @@
     "id": "g10",
     "text": "Record Expenses",
     "goal": 365,
-    "current": [13]
+    "current": [21]
   },
   {
     "id": "g11",
@@ -69,7 +69,7 @@
     "id": "g12",
     "text": "Do Assessment [Son]",
     "goal": 500,
-    "current": [37]
+    "current": [57]
   },
   {
     "id": "g13",
