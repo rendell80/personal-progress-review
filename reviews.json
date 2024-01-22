@@ -48,5 +48,30 @@
         "week": 2,
         "id": "wq5",
         "review": "Try to wind down earlier or just sleep when my son is asleep."
+    },
+    {
+        "week": 3,
+        "id": "wq1",
+        "review": "7"
+    },
+    {
+        "week": 3,
+        "id": "wq2",
+        "review": "Map out a high level school curriculum against the Assessment books. Started a study plan project but not yet MVP. Body clock haywire."
+    },
+    {
+        "week": 3,
+        "id": "wq3",
+        "review": "1. Created a atlas study plan project.\n2. Son got better this week.\n3. Clocked minimum distance and did an elevation trainig at BTH."
+    },
+    {
+        "week": 3,
+        "id": "wq4",
+        "review": "1. Irregular sleeping hours.\n2. Didn't do all my scheduled training runs."
+    },
+    {
+        "week": 3,
+        "id": "wq5",
+        "review": "Try not to sleep in the afternoon and let son is earlier so that I have time to wind down also."
     }
 ]
